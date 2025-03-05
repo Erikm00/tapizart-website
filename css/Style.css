@@ -145,7 +145,7 @@ button:hover {
 }
 
 .designs img {
-    width: 80px;
+    max-width: 80%;
     height: auto;
     border-radius: 10px;
     transition: transform 0.5s;

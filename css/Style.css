@@ -144,10 +144,10 @@ button:hover {
 }
 
 .designs img {
-    width: 65px !important;
-    height: 65px !important;
+    width: 80px;
+    height: auto;
     border-radius: 10px;
-    transition: transform 0.3s;
+    transition: transform 0.5s;
 }
 
 .designs img:hover {
